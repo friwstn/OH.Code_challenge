@@ -23,9 +23,9 @@ function testScore(num){
   }  
   return 
 }
-console.log(testScore(70))
-console.log(testScore(50));
-console.log(testScore(90));
+testScore(70)
+testScore(50);
+testScore(90);
 */
 
 
